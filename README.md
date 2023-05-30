@@ -20,7 +20,7 @@ Across the globe businesses, institutions, and personal use computers are predom
 <h2>Actions and Observations</h2>
 
 <p>
-<img src="https://imgur.com/WxT9NuV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/tpLmVRJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <h2>1. Windows Preinstallation Environment</h2>
