@@ -2,7 +2,7 @@
 <img src="https://imgur.com/qeQ17Bg.png" height="60%" width="60%" alt="Windows Troubleshooting"/>
 </p>
 
-<h1>Basic Tools for Troubleshooting Windows</h1>
+<h1>Basic Tools for Troubleshooting Windows (Still in Progress)</h1>
 Across the globe businesses, institutions, and personal use computers are predominantly using the Windows Operating System. It is by far the most widely used computer operating system. IT workers must have a solid understanding of how to troubleshoot, and how to use the tools provided from Windows to troubleshoot this operating system. In this tutorial we are going to cover the basics of what these tools do and how to use them effectively.  <br />
 
 <h2>Technologies We'll Be Covering</h2>
@@ -17,21 +17,15 @@ Across the globe businesses, institutions, and personal use computers are predom
 - Windows 10 
 - Windows 11
 
-<h2>High-Level Steps</h2>
-
-- Creating the VM's
-- Installing Wireshark
-- Observing network traffic with Wireshark
-
 <h2>Actions and Observations</h2>
 
 <p>
-<img src="https://imgur.com/tYRYkNT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/WxT9NuV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<h2>1. Creating the VM's in Azure</h2>
+<h2>1. Windows Preinstallation Environment</h2>
 
-First we must create 2 VM's to send network traffic between. For the main VM we will be using I am running Windows 10, and for the other VM I used Ubuntu server. 
+Windows Preinstallation Environment (WinPE for short) is a leightweight operating system used to install, deploy, and repair Windows editions. WinPE can be used on Windows desktop editions, server editions, and more. To get into WinPE, it must be booted from a seperate device. This can be an internal or external hard drive. 
 
 I created both of these in Azure, but this can be done with any VM application.
 </p>
