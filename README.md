@@ -9,7 +9,7 @@ Across the globe businesses, institutions, and personal use computers are predom
 
 - Preinstallation Environment
 - Windows System Restore
-- System File Check
+- Troubleshooting Drive Issues
 - Startup Repair
 
 <h2>Operating Systems Used</h2>
