@@ -2,7 +2,7 @@
 <img src="https://imgur.com/qeQ17Bg.png" height="60%" width="60%" alt="Windows Troubleshooting"/>
 </p>
 
-<h1>Basic Tools for Troubleshooting Windows (Still in Progress)</h1>
+<h1>Troubleshooting Using Windows Sysinternal Tools(Still in Progress)</h1>
 Across the globe businesses, institutions, and personal use computers are predominantly using the Windows Operating System. It is by far the most widely used computer operating system. IT workers must have a solid understanding of how to troubleshoot, and how to use the tools provided from Windows to troubleshoot this operating system. In this tutorial we are going to cover the basics of what these tools do and how to use them effectively.  <br />
 
 <h2>Technologies We'll Be Covering</h2>
